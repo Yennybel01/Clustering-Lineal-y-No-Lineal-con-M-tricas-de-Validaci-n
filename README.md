@@ -9,16 +9,6 @@ Comparación de tres algoritmos de clustering (K-Means, DBSCAN y Spectral Cluste
 Comprender la naturaleza lineal y no lineal de los modelos de clustering, identificar sus hiperparámetros críticos y analizar las limitaciones de las métricas de validación interna frente a datos de geometría no convexa.
 
 ---
-
-## Estructura del repositorio
----
-├── Actividad04_Clustering_Iris_Moons_Circles.ipynb   # Notebook principal
-
-├── Informe_Clustering_Actividad04.docx               # Informe en Word
-
-└── README.md
-
----
 ## Datasets
 
 | Dataset | Tipo | Muestras | Clases | Descripción |
